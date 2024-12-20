@@ -11,5 +11,5 @@
     {"Github (elixir)","https://github.com/marinakr/libphonenumber_elixir"},
     {"Github (google origin)", "https://github.com/googlei18n/libphonenumber"}]},
   {registered, []},
-  {applications, [kernel, stdlib, tools]},
+  {applications, [kernel, stdlib]},
   {env, []}]}.
